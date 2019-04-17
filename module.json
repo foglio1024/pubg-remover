@@ -1,0 +1,11 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/pubg-remover/master/"],
+	"name": "pubg-remover",
+	"author": "Foglio",
+	"description": "Removes decorative PUBG planes and cars.",
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName": "pubg-remover",
+		"guiName": "pubg-remover"
+	}
+}
